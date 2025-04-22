@@ -1,6 +1,6 @@
-# Welcome to My Profile!
+# Yooo!
 
-Hi, I'm **Toni Vern Fajardo**. I love working on Python projects and cron jobs!
+Hi, — a passionate and versatile developer with a strong interest in Python and continuous learning. I enjoy solving problems, exploring new technologies, and expanding my skills in various areas of tech.
 
 - 🌱 I’m currently learning **advanced Python**
 - 📫 Reach me at: fajardo.tonivern@gmail.com
